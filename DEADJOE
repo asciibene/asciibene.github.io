@@ -1,9 +1,0 @@
-
-*** These modified files were found in JOE when it aborted on Mon Jan 29 16:50:46 2024
-*** JOE was aborted by UNIX signal 1
-
-*** File '* Startup Log *'
-Processing '/sys/pkg93/etc/joe/jpicorc'...
-Processing '/sys/pkg93/etc/joe/ftyperc'...
-Finished processing /sys/pkg93/etc/joe/ftyperc
-Finished processing /sys/pkg93/etc/joe/jpicorc
