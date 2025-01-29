@@ -1,0 +1,25 @@
+@font-face {
+  font-family:  nuagc;
+  src: url(nuagc.otf);
+}
+
+body {background-color: black; text-align: left; font-family: nuagc; color: white;}
+p, ul {color: #00ffb4; text-align: left;}
+h3, h1 {color: #38FF6E; text-decoration: underline #B100FF; font-variant: small-caps;}
+h4 {color: white;}
+h5 {color: lime; font-variant: small-caps;}
+a {color: #50a0e5;}
+hr {color: #35f2d7;}
+u {color: #B100FF;}
+
+#statuscafe {
+    padding: .5em;
+    background-color: azure;
+    border: 1px solid midnightblue;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
